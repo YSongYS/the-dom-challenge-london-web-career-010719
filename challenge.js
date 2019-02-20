@@ -17,7 +17,7 @@ function getTime(){
   }
 }
 
-//increment decrement timer
+
 let buttonsAll = document.querySelectorAll('button')
 let buttonPause = buttonsAll[3]
 let buttonMinus = buttonsAll[0]
